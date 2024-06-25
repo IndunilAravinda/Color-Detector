@@ -15,3 +15,5 @@ For a better accuracy, optimize the range of the color. (low and high hsv color)
 
 #############<br>
 And also you can print the mean value of a particular color matrix and decide a much better value to decide whether a color is detected
+
+![Color Detector](https://github.com/IndunilAravinda/Color-Detector/assets/48926164/cc6c597a-e0ce-426d-ad5e-629d58d1dfcf)
